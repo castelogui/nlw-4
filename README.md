@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="public/github/nlw4.jpg" alt="Next Level Week #4">
+    <img src="/public/github/nlw4.png" alt="Next Level Week #4" width="400px">
 </div>
 
 <div align="center">
